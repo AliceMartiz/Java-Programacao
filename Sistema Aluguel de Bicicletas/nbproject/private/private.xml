@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/view/TrabalhoTLP2.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/entity/Aluguel.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/entity/Usuario.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/entity/Estacao.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/entity/Bicicleta.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/dao/EstacaoDAO.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/dao/ConectaBanco.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/dao/BicicletaDAO.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/model/dao/AluguelDAO.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/controller/UsuarioCONTROLLER.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/controller/EstacaoCONTROLLER.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/controller/BicicletaCONTROLLER.java</file>
+            <file>file:/C:/Users/alice/OneDrive/Desktop/TrabalhoINTERFACE/src/controller/AluguelCONTROLLER.java</file>
+        </group>
+    </open-files>
+</project-private>
